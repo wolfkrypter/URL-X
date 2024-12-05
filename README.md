@@ -102,4 +102,4 @@ h) 2160p
 
  --> URL:
 
-<img src="https://i.imgur.com/sxhHMsP.jpeg" alt="URL-X>
+<img src="https://i.imgur.com/sxhHMsP.jpeg" alt="URL-X">
