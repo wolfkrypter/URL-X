@@ -4,7 +4,7 @@ URL-X es un extractor de videos multiplataforma de código abierto mediante PHP.
 </br>
   <h1>URL-X / VIDEOS EXTRACTOR</h1></br>                         
 <h3>Ejecución en Termux</h3><br>
- <p>Inf | Exit/logout/cancel:CTRL+C</p>                                  
+ <p>Inf | Exit/logout/cancel: CTRL+C</p>                                  
 </p>-> Plataformas: Youtube, Facebook, Instagram,etcétera.</p>
 
 <p>-> Información de URL-X:</p>                                           
