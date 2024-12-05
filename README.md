@@ -32,7 +32,7 @@ El comando mkdir le ayudará a crear el directorio predispuesto para la ejecuci�
 
 1.1.1.1) ~/.../downloads/URL-X $ composer require norkunas/youtube-dl-php:dev-master
 
-1.1.2)Ejecute los siguientes comandos que son al igual que el comando del indice N° 1.1.1.1 de caracter obligatorio para ejecutar URL-X.
+1.1.2) Ejecute los siguientes comandos que son al igual que el comando del indice N° 1.1.1.1 de caracter obligatorio para ejecutar URL-X.
 
 Inf:
 
@@ -52,7 +52,7 @@ La ejecución de estos comandos no es obligatoria en el directorio predispuesto 
 
 2.1) Utilicé el comando 'pwd' para obtener la dirección del directorio de su preferencia para el almacenamiento de las extracciones.
 
-2.1.1)Example pwd:
+2.1.1) Ejemplo/pwd:
 
  ~ $ termux-setup-storage
  ~ $ cd storage/downloads/URL-X
