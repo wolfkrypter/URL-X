@@ -60,7 +60,7 @@ La ejecución de estos comandos no es obligatoria en el directorio predispuesto 
 /data/data/com.termux/files/home/storage/downloads/URL-X
 
 
- --> Ruta de almacenaje:
+ --> Ruta de almacenamiento:
 
 
 3) Ejemplo Resolución de video:
