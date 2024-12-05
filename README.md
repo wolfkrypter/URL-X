@@ -48,7 +48,7 @@ La ejecución de estos comandos no es obligatoria en el directorio predispuesto 
 
  ~/.../downloads/URL-X $ php -f URL-X.php
 
-2) Ejemplo Ruta de almacenamiento:
+2) Ejemplo/Ruta de almacenamiento:
 
 2.1) Utilicé el comando 'pwd' para obtener la dirección del directorio de su preferencia para el almacenamiento de las extracciones.
 
@@ -63,7 +63,7 @@ La ejecución de estos comandos no es obligatoria en el directorio predispuesto 
  --> Ruta de almacenamiento:
 
 
-3) Ejemplo Resolución de video:
+3) Ejemplo/Resolución de video:
 
 Youtube/etc
 
