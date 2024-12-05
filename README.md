@@ -95,7 +95,7 @@ h) 2160p
  -->Resolución de video:
 
 
- 4) Example:
+ 4) Ejemplo/URL:
 
  URL: https://m.youtube.com/shorts/mzX3DSh-AW4
 
